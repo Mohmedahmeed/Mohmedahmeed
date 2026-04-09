@@ -12,7 +12,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Mohmedahmeed&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohmedahmeed&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://linkedin.com/in/benmassoudamedahmed) <br>
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-ahmed-ben-massouda-242196280/) <br>
 </div>
 
 <hr></hr>
@@ -53,25 +53,9 @@ class About extends Me {
 - ⚙️ I like working with **Docker, Kubernetes, and CI/CD pipelines**
 - 🛰️ Built a telecom platform managing **5000+ network sites (2G–5G)**
 - 💬 Ask me about **Full-Stack development, DevOps, or system design**
-- 📫 Reach me on LinkedIn: **[Mohamed Ahmed](https://linkedin.com/in/benmassoudamedahmed)**  
+- 📫 Reach me on LinkedIn: **[Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-ben-massouda-242196280/)**  
 - ⚡ Fun fact: I enjoy building systems that handle real-world scale 🚀  
 
-<div align="center" >
-<a href="https://github.com/Mohmedahmeed">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-  
 <hr></hr>
 
 **Code Cycle**<br>

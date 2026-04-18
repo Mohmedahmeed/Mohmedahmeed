@@ -67,7 +67,7 @@ class About extends SoftwareEngineer {
 
 ### 📌 Featured Projects
 
-- 🔗 **TelecomOps Platform** *(private / demo on request)*
+- 🔗 **TelecomOps Platform**
 - 🔗 **University Orientation Platform**  
 - 🔗 **CHOUFLI HALL Platform**
 
